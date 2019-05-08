@@ -1,7 +1,7 @@
 {
-    "data":
-        {
-          "type": "text",
-          "text": "I am Akki"
-        }
+  "posts": [
+    { "id": 1, "title": "Pos1" },
+    { "id": 2, "title": "Pos2" },
+    { "id": 3, "title": "Pos3" }
+  ]
 }
