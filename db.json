@@ -1,5 +1,9 @@
 {
-  "profile": {
-    "name": "typicode"
-  }
+  "profiles": 
+    {
+      "data": {
+        "type": "text",
+        "text": "I am Akki"
+      }
+    }
 }
