@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "data":
+        {
+          "type": "text",
+          "text": "I am Sapna"
+        }
 }
