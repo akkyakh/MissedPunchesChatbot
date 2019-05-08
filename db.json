@@ -2,25 +2,25 @@
   "John": {
     "data": {
       "type": "text",
-      "text": "Forgot Punch"
+      "text": "John seems to forgot punch. Do you want me to update the punch with John's regular schedule?"
     }
   },
    "Anthony": {
     "data": {
       "type": "text",
-      "text": "invalid Batch Id"
+      "text": "There is a problem with badge ID. Do you want me fix it?"
     }
   },
    "Mark": {
     "data": {
       "type": "text",
-      "text": "Punch out of pay period"
+      "text": "Punch Date by Mark's is not yet part of the Open Period, do you want me to roll out the pay period?"
     }
   },
    "Peter": {
     "data": {
       "type": "text",
-      "text": "Repost Punch"
+      "text": "I also see missing punch, do you want me to repost the punch for Peter"
     }
   },
   "profiles": {
