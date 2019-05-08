@@ -1,18 +1,5 @@
 {
-  "posts": [
-    {
-      "data": {
-        "type": "text",
-        "text": "I am Sapna"
-      }
-    },
-    {
-      "id": 2,
-      "title": "Pos2"
-    },
-    {
-      "id": 3,
-      "title": "Pos3"
-    }
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
