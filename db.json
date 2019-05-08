@@ -1,9 +1,14 @@
 {
-  "akki": 
-    {
-      "data": {
-        "type": "text",
-        "text": "I am Akki"
-      }
+  "akki": {
+    "data": {
+      "type": "text",
+      "text": "I am Akki"
     }
+  },
+  "profiles": {
+    "data": {
+      "type": "text",
+      "text": "I am Akki"
+    }
+  }
 }
